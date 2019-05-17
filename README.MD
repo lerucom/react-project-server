@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/lerucom/nodejs-read-later.svg?branch=master)](https://travis-ci.com/lerucom/nodejs-read-later)
+[![Build Status](https://travis-ci.com/lerucom/react-project-server.svg?branch=master)](https://travis-ci.com/lerucom/react-project-server)
 Сервер развернут на Heroku
